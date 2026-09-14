@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# Local tooling and build output
+.history/
+.dist/
+
+# Model training logs and generated experiment files
+catboost_info/
+
+# Generated visualizations
+viz*.png
